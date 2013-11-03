@@ -1,3 +1,9 @@
+Deprecated
+----------
+
+Please use https://github.com/isaacs/inherits or even simpler,
+`require('util').inherits`
+
 node-inherits
 =============
 
